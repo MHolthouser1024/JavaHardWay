@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//THIS PROGRAM HAS BEEN DEBUGGED AND NOW COMPILES AND WORKS CORRECTLY.
 public class DictionaryOrder {
   public static void main( String[] args ) {
     Scanner keyboard = new Scanner(System.in);
